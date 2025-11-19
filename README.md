@@ -21,6 +21,7 @@ Steady growth in web-based sales and overall profitability
 This project demonstrates end-to-end data handling,  from data preparation in Google Sheets, to analysis in BigQuery using SQL, and interactive dashboard creation in Looker Studio.
 [DASHBOARD/LINK](https://lookerstudio.google.com/s/th5pj74tVHY "DASHBOARD/LINK")
 
+
 ### ** Languages and Tools Used**
 
 Core Tools:
